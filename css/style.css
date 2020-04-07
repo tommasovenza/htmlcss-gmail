@@ -1,0 +1,70 @@
+ /* regole generali */
+body {
+    background-image: url('https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Fssl.gstatic.com%2Fui%2Fv1%2Ficons%2Fmail%2Fthemes%2Fdesk%2Fbg2_1920x1200.jpg');
+}
+
+.main-wrapper {
+    width: 50%;
+    margin: 0 auto;
+}
+
+/* regole header */
+
+.header {
+    color: white;
+}
+
+.header .top-header img {
+    height: 100px;
+    vertical-align: middle;
+}
+
+.top-header span {
+    font-size: 25px;
+}
+
+.top-header hr {
+    margin-top: 0;
+}
+
+.bottom-header p {
+    font-size: 25px;
+    margin: 10px 0px;
+}
+
+.bottom-header span {
+    width: 50px;
+    height: 50px;
+    padding: 3px;
+    border-radius: 50%;
+    background-color: orange;
+    display: inline-block;
+    line-height: 50px;
+    text-align: center;
+}
+
+/* main */
+
+.mail {
+    border: 1px solid #000;
+    background-color: lightgrey;
+    padding: 2px;
+}
+
+.lightgray {
+    color: grey;
+}
+
+.bianco {
+    background-color: #fff;
+}
+
+.footer {
+    color: #fff;
+    text-align: center;
+}
+
+.footer span {
+    font-size: 25px;
+    font-weight: bold;
+}
